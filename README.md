@@ -41,7 +41,7 @@ packet loss, and the website opened successfully on PC0 via
 
 | File | Description |
 |---|---|
-| `NPC_Unit_3_Shubham_Shinde.pdf` | Full practical report (submission copy) |
+| `NPC_Unit_3_Durgesh_Gaikwad.pdf` | Full practical report (submission copy) |
 | `NPC_Unit_3_DNS_Web_Server.pkt` | Cisco Packet Tracer project file |
 | `screenshots/` | Real Packet Tracer screenshots (topology, ping, website) |
 | `build_pdf.py` | Script used to generate the PDF report |
